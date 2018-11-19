@@ -1,8 +1,10 @@
 # react-gallery
 A flickr photo gallery
 
-Please include a config.js in the src directory with:
+Please include a config.js file in the **src** directory with:
 
-const apiKey = '{yourFlickrApiKey}';
+    const apiKey = '{yourFlickrApiKey}';
 
-export default apiKey;
+    export default apiKey;
+    
+  
